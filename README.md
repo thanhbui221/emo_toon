@@ -49,7 +49,10 @@
 - Click on the "Run" button in Android Studio to build and start the application.
 
 ## Testing the Application
-- You can download the .apk file to test the application on your Android phone:
+- You can download the .apk file to test the application on your Android phone: https://drive.google.com/file/d/1BHbgpYCJeQP3vDs5k7KrdsRCa6o2zaKH/view?usp=sharing
+
+## Social Network
+- **Threads**: https://www.threads.net/@emo_toon
 
   
   
